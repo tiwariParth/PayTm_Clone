@@ -1,5 +1,5 @@
 {
-  "name": "PayTm_Clone",
+  "name": "paytm-clone",
   "private": true,
   "scripts": {
     "build": "turbo build",
